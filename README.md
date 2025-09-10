@@ -1,4 +1,4 @@
-# Desafio Copiltot Personalizado
+# Desafio Copilot Personalizado
 Desafio de projeto sugerido pela DIO
 
 # 💻 Projeto: Criei e Otimizei um Copilot Personalizado
